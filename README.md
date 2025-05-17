@@ -94,4 +94,4 @@ The script performs the following steps:
 ## ✍️ Author
 
 * **Name**: *TANMAY GUHA*
-* **Contact**: *tanmayguha@gmail.com*
+* **Contact**: *tanmayguha15@gmail.com*
